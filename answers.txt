@@ -1,8 +1,8 @@
 Part 1: Write your message here from GitHub
-
+hey I am writing this message from Github
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+git fetch allows us to retrieve brand new information from remote repository and stores it in your own local repository. 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Github is like a master hub which allows you to control your local Git repositories. 
