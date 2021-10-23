@@ -5,4 +5,4 @@ Task 1:
 git fetch allows us to retrieve brand new information from remote repository and stores it in your own local repository. 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-Github is like a master hub which allows you to control your local Git repositories. 
+Github is like a master hub of central repository which allows you to control your local Git repositories. 
